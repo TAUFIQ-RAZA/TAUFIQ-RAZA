@@ -9,9 +9,6 @@
 8️⃣ Passionate about Learning New Technologies and optimizing Application Performance<br>
 9️⃣ Focused on delivering Real-World Solutions for Educational & Business Platforms<br>
 
-# ⚙️ Tech Stack
-⚛️ React.js | 🟢 Node.js | 🚀 Express.js | 🍃 MongoDB | 🎨 Tailwind CSS | 🐬 MySQL | 🔐 JWT/Auth | 🌐 REST APIs
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://www.linkedin.com/in/taufiq-raza/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:taufiq.dev2025@gmail.com)
