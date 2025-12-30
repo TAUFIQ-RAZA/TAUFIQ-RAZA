@@ -1,15 +1,16 @@
 # 💫 About Me:
-Computer Science Engineer with strong fundamentals in software development and system design<br>
-Full Stack Developer currently working at P_Tap Technologies<br>
-Actively developing and maintaining P_Tap School Management System and City School Project<br>
-Experienced in frontend and backend development with modern web technologies<br>
-Skilled in building scalable, secure, and user-friendly applications<br>
-Hands-on experience with database design, APIs, and authentication systems<br>
-Strong problem-solving skills with a focus on clean, maintainable code<br>
-Passionate about learning new technologies and improving application performance<br>
-Dedicated to delivering real-world solutions for educational and business platforms<br>
+1️⃣ Computer Science Engineer with strong fundamentals in Software Development and System Design<br>
+2️⃣ Full Stack Developer at P_Tap Technologies, working on real-world production projects<br>
+3️⃣ Actively developing P_Tap School Management System and City School Project<br>
+4️⃣ Proficient in Frontend & Backend Development using modern web technologies<br>
+5️⃣ Skilled in building Scalable, Secure, and User-Friendly Applications<br>
+6️⃣ Hands-on experience with Database Design, REST APIs, and Authentication Systems<br>
+7️⃣ Strong Problem-Solving Skills with emphasis on Clean & Maintainable Code<br>
+8️⃣ Passionate about Learning New Technologies and optimizing Application Performance<br>
+9️⃣ Focused on delivering Real-World Solutions for Educational & Business Platforms<br>
 
-
+# ⚙️ Tech Stack
+⚛️ React.js | 🟢 Node.js | 🚀 Express.js | 🍃 MongoDB | 🎨 Tailwind CSS | 🐬 MySQL | 🔐 JWT/Auth | 🌐 REST APIs
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/taufiq-raza/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:taufiq.dev2025@gmail.com) 
