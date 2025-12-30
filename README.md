@@ -1,5 +1,14 @@
 # 💫 About Me:
-im currently working on P_Tap technologies<br>im Full stack Developer<br>im currently working on P_Tap school and City school project <br>im computer Science Engineer
+Computer Science Engineer with strong fundamentals in software development and system design<br>
+Full Stack Developer currently working at P_Tap Technologies<br>
+Actively developing and maintaining P_Tap School Management System and City School Project<br>
+Experienced in frontend and backend development with modern web technologies<br>
+Skilled in building scalable, secure, and user-friendly applications<br>
+Hands-on experience with database design, APIs, and authentication systems<br>
+Strong problem-solving skills with a focus on clean, maintainable code<br>
+Passionate about learning new technologies and improving application performance<br>
+Dedicated to delivering real-world solutions for educational and business platforms<br>
+
 
 
 ## 🌐 Socials:
